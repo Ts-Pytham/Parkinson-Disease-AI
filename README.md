@@ -1,4 +1,4 @@
-# Classification with AI Techniques
+# Classification of Parkinson's disease with AI techniques
 In this project, I am using artificial intelligence techniques to solve a classification problem. I have compared several methods, including:
 
 * Logistic Regression
